@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HP.API.props" />
+</Project>
